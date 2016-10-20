@@ -1,0 +1,12 @@
+C:\Proj\CS4830\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\bin\WcfREST.dll.config
+C:\Proj\CS4830\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\bin\WcfREST.dll
+C:\Proj\CS4830\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\bin\WcfREST.pdb
+C:\Proj\CS4830\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\obj\Debug\WcfREST.dll
+C:\Proj\CS4830\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\obj\Debug\WcfREST.pdb
+C:\Proj\CS4830\CS4830FS2016\Web Service Examples\WcfREST\WcfREST\obj\Debug\WcfREST.csprojResolveAssemblyReference.cache
+C:\Users\DewiEndah\Documents\1. Mizzou College\7th Fall 2016 Semester\CMP_SC 4830 engineering WWW\new\CS4830FS2016-master\CS4830FS2016-master\Web Service Examples\WcfREST\WcfREST\bin\WcfREST.dll.config
+C:\Users\DewiEndah\Documents\1. Mizzou College\7th Fall 2016 Semester\CMP_SC 4830 engineering WWW\new\CS4830FS2016-master\CS4830FS2016-master\Web Service Examples\WcfREST\WcfREST\bin\WcfREST.dll
+C:\Users\DewiEndah\Documents\1. Mizzou College\7th Fall 2016 Semester\CMP_SC 4830 engineering WWW\new\CS4830FS2016-master\CS4830FS2016-master\Web Service Examples\WcfREST\WcfREST\bin\WcfREST.pdb
+C:\Users\DewiEndah\Documents\1. Mizzou College\7th Fall 2016 Semester\CMP_SC 4830 engineering WWW\new\CS4830FS2016-master\CS4830FS2016-master\Web Service Examples\WcfREST\WcfREST\obj\Debug\WcfREST.csprojResolveAssemblyReference.cache
+C:\Users\DewiEndah\Documents\1. Mizzou College\7th Fall 2016 Semester\CMP_SC 4830 engineering WWW\new\CS4830FS2016-master\CS4830FS2016-master\Web Service Examples\WcfREST\WcfREST\obj\Debug\WcfREST.dll
+C:\Users\DewiEndah\Documents\1. Mizzou College\7th Fall 2016 Semester\CMP_SC 4830 engineering WWW\new\CS4830FS2016-master\CS4830FS2016-master\Web Service Examples\WcfREST\WcfREST\obj\Debug\WcfREST.pdb

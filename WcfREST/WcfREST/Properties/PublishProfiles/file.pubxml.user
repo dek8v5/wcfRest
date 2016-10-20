@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\DewiEndah\Documents\1. Mizzou College\7th Fall 2016 Semester\CMP_SC 4830 engineering WWW\Deploy</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WcfREST.dll">
+      <publishTime>10/18/2016 10:30:53</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>10/13/2016 18:42:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/18/2016 10:30:54</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
